@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yahya Hamu
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Java + Python
 - 💞 I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me yhamu27@gmail.com
