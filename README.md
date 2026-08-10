@@ -4,7 +4,7 @@ My name is **Yahya**
 
 My areas of interest are software development, cybersecurity, and data analytics
 
-My aim is to solve 300+ leetcode problems (0/300)
+My aim is to solve 150+ leetcode problems (0/150)
 
 I work in IT for the engineering dept at CU Denver
 
